@@ -50,7 +50,8 @@ include "../models/pasar.model.php";
                 <tr>
                     <td><?= $mostrarasistencia['id_mostrar']; ?></td>
                     <td><?= $mostrarasistencia['estudiante_id']; ?></td>
-                    <td <?= $mostrarasistencia['estado']; ?>></td>
+                    <td><?= $mostrarasistencia['estado']; ?></td>
+                    
                 </tr>
                 <?php
                     }

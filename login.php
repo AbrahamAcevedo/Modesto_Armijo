@@ -23,14 +23,13 @@ ini_set('display_startup_errors', 1);
     <!-- Theme style -->
     <link rel="stylesheet" href="dist/css/adminlte.min.css">
 </head>
-<body class="hold-transition login-page" style="background-image: url('./dist/img/ciclo-escolar-nicaragua-2023-1024x682-1.jpg'); height: 100vh; background-size: cover; background-position: center;">>
+<body class="hold-transition login-page" style="background-image: url('./dist/img/ciclo-escolar-nicaragua-2023-1024x682-1.jpg'); height: 100vh; background-size: cover; background-position: center;">
     <h1 style="display: inline-block; font-size: 3em; color: white; text-shadow: 2px 2px 5px rgba(0, 0, 0, 1); margin-bottom: 4rem; ">Colegio Modesto Armijo Lozano</h1>
 <div class="login-box" >
     <!-- /.login-logo -->
     <div class="card card-outline card-primary">
     <div class="card-header text-center">
-            <a href="#" class="h1"><b>ASISTECH</b></a>
-            <a href="https://iergrupo5.seogoogle.pro/" class="h1" style="position: absolute; top: 10px; right: 10px; font-size: 24em; color: black;"><i class="bi bi-x"></i></a>
+            <a href="https://iergrupo5.seogoogle.pro/" class="h1"><b>ASISTECH</b></a>
         </div>
         <div class="card-body">
             <p class="login-box-msg">Inicia sesión</p>

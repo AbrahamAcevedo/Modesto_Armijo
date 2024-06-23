@@ -19,7 +19,12 @@
                         <label for="estudiante" class="form-label">Nombre</label>
                         <input type="text" class="form-control" id="estudiante" name="estudiante" >
                         <label for="esta" class="form-label">Estado</label><br>
-                        <input type="text" class="form-control" id="esta" name="esta">
+                        <select name="esta" class="form-control" id="esta">
+                            <option >Presente</option>
+                            <option >Ausente</option>
+                            <option >Retraso</option>
+                            <option >Justificado</option>
+                        </select>
                     </div>
 
             </div>
